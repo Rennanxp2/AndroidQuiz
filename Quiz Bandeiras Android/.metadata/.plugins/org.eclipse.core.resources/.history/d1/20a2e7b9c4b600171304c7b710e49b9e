@@ -1,0 +1,8 @@
+package com.quiz;
+
+import java.util.ArrayList;
+
+public class Questao {
+
+	private List<String> respostas = new ArrayList<>();
+}

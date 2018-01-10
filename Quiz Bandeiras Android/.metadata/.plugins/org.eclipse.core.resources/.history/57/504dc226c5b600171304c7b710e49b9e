@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_quiz1">Quiz1</string>
+    <string name="title_activity_quiz2">Quiz2</string>
+    <string name="title_activity_quiz3">Quiz3</string>
+    <string name="title_activity_quiz4">Quiz4</string>
+    <string name="title_activity_quiz5">Quiz5</string>
+    <string name="title_activity_quiz6">Quiz6</string>
+    <string name="title_activity_quiz7">Quiz7</string>
+    <string name="title_activity_quiz8">Quiz8</string>
+    <string name="title_activity_quiz9">Quiz9</string>
+    <string name="title_activity_quiz10">Quiz10</string>
+    <string name="title_activity_resposta">Resposta</string>
+
+</resources>

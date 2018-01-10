@@ -1,0 +1,28 @@
+package com.quiz;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+public class Desempenho extends Activity {
+	
+	ImageView imgResposta;
+	TextView  resposta;
+	Button	  btnJogarNovamente;
+
+	public static int pontos = 0;
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_desempenho);
+		
+		imgResposta 			= (ImageView)findViewById(R.id.imgDesempenho);
+		resposta    			= (TextView)findViewById(R.id.txtDesempenho);
+		btnJogarNovamente		= (Button)findViewById(R.id.btnJogarNovamente);
+	}
+}
